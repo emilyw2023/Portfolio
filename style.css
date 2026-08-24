@@ -1,17 +1,13 @@
 
-  font-family: "Gravitas One", serif;
-  font-weight: 400;
-  font-style: normal;
-
-font-family: "aukio-std", sans-serif;
-font-weight: 400;
-font-style: normal;
 
 <style>
  body {
     background-color: #FFF5EE;
  }
- h1{ color:#c86868;  font-size: 50px}
+ h1{ color:#c86868;  font-size: 50px; 
+font-family: "sister-frisky", sans-serif;
+font-weight: 500;
+font-style: normal;}
 p {color:#c86868; font-size: 10px;
 }
 a {
@@ -26,8 +22,6 @@ a:hover{color: grey;}
 
 
 
-h1 {font-family: "sister-frisky", sans-serif;
-font-weight: 500;
-font-style: normal;}
+
 
 </style>
