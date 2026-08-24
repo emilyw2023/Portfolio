@@ -27,6 +27,8 @@ a:hover{color: grey;}
 
 
 
-h1 {font-family: serif;}
+h1 {font-family: "aukio-std", sans-serif;
+font-weight: 400;
+font-style: normal;}
 
 </style>
