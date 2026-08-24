@@ -11,4 +11,7 @@ a {
 }
 #navigation { color: peru; }
 a:hover{color: grey;}
+.portfoliomain { display:flex; align-items:center ;
+
+}
 </style>
