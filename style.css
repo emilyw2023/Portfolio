@@ -11,7 +11,7 @@ font-style: normal;
 
 display: flex;
   justify-content: space-between; /* Pushes items to left, center, and right */
-  align-items: center; padding: 10px 20px;
+  align-items: center; padding: 50px 20px;
 }
 
 p {color:#c86868; font-size: 10px;
