@@ -5,4 +5,8 @@
  h1{ color:#c86868;  font-size: 24px}
 p {color:grgb(74, 56, 56); font-size: 10px;
 }
+a {
+    color: inherit; /* Forces the link to match the surrounding text color */
+    text-decoration: none; /* Optional: Removes the default underline */
+}
 </style>
