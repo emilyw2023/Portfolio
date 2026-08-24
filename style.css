@@ -2,6 +2,7 @@
  body {
     background-color: #FFF5EE;
  }
- h1{ color:#c86868}
-p {color:grgb(74, 56, 56)}
+ h1{ color:#c86868;  font-size: 24px}
+p {color:grgb(74, 56, 56); font-size: 16px;
+}
 </style>
