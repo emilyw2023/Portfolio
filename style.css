@@ -10,4 +10,5 @@ a {
     text-decoration: none; /* Optional: Removes the default underline */
 }
 #navigation { color: peru; }
+a:hover{color: grey;}
 </style>
