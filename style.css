@@ -57,12 +57,13 @@ font-style: normal;
   border-radius: 8px;
 }
 
-#navigation{
+.navigation{
   display: flex;
+  align-items: flex-start;
   justify-content: space-between;
   width: 100px;
   padding: 20px;
-  box-sizing: border-box;
+  
 }
 
 </style>
