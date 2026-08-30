@@ -57,5 +57,11 @@ font-style: normal;
   border-radius: 8px;
 }
 
+.navigation{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 40px;
+  text-align: center;
+}
 
 </style>
