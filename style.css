@@ -32,7 +32,19 @@ font-style: normal;
 
 }
 
-
+.image-grid { 
+  display: grid;
+  grid-template-columns: repeat (2,1fr);
+  gap: 16px;
+  max-width:600px;
+  margin: 0 auto;
+}
+.image-grid img {
+  width: 100%;
+  hight: 250px;
+  object-fit: cover;
+  border-radius: 8px;
+}
 
 
 </style>
