@@ -61,8 +61,9 @@ font-style: normal;
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  width: 100px;
+  width: 1005;
   padding: 20px;
+  color: peru;
   
 }
 
