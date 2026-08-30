@@ -23,9 +23,14 @@ a {
 #navigation { color: peru; }
 a:hover{color: grey;}
 .portfoliomain { display:flex; align-items:center ;
+}
+.portfoliowork {
+  color:#c86868;  font-size: 50px; 
+font-family: "sister-frisky", sans-serif;
+font-weight: 500;
+font-style: normal;
 
 }
-
 
 
 
