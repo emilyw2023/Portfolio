@@ -58,10 +58,11 @@ font-style: normal;
 }
 
 #navigation{
-  display: grid;
-  grid-template-columns: repeat(3,1fr);
-  gap: 40px;
-  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  width: 100px;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 </style>
