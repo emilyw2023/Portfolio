@@ -58,11 +58,14 @@ font-style: normal;
 }
 .image-grid img {
   width: 400px;
-  height: 100%;
-  object-fit: cover;
+  height: 400px;
+  gap: 10px 20px;
+  object-fit:cover;
   border-radius: 8px;
   aspect-ratio: 1/1;
   flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
 }
 
 .navigation {
@@ -89,5 +92,9 @@ a:hover{color: grey;}
   width:100%;
   height: auto;
   justify-content: center;
+}
+
+div {
+  display: flex;
 }
 </style>
