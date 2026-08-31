@@ -49,7 +49,7 @@ font-style: normal;
 
 
 .image-grid { 
-  display: grid;
+  display: flex;
   grid-template-columns: ;template-columns:(2,1fr);
   grid-template-rows: 2,1fr;
   gap: 15px;
