@@ -58,11 +58,12 @@ font-style: normal;
 
 }
 .image-grid img {
-  width: 100%;
+  width: 400px;
   height: 100%;
   object-fit: cover;
   border-radius: 8px;
   aspect-ratio: 1/1;
+
   
 }
 
