@@ -47,7 +47,6 @@ font-style: normal;
 }
 
 
-
 .image-grid { 
   display: flex;
   grid-template-columns: ;template-columns:(2,1fr);
@@ -63,8 +62,7 @@ font-style: normal;
   object-fit: cover;
   border-radius: 8px;
   aspect-ratio: 1/1;
-
-  
+  flex-wrap: wrap;
 }
 
 .navigation {
