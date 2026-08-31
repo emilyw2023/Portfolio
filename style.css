@@ -64,8 +64,8 @@ font-style: normal;
   aspect-ratio: 1/1;
 }
 
-.navigation{
-  display: flex;
+.navigation {
+  display:flex;
   align-items: flex-start;
   justify-content: space-between;
   width: 100%;
