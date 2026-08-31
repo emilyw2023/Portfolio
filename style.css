@@ -36,8 +36,9 @@ a {
     color: inherit; /* Forces the link to match the surrounding text color */
     text-decoration: none; /* Optional: Removes the default underline */
 }
-#navigation { color: peru; }
-a:hover{color: grey;}
+
+
+
 .portfoliomain { display:flex; align-items:center ;
 }
 .portfoliowork {
@@ -80,7 +81,9 @@ font-style: normal;
   object-fit: cover;
   border-radius: 8px;
 }
-img:hover {color: grey;}
+
+.img:hover {color: grey;}
+.a:hover{color: grey;}
 
 .project1{
   width:100%;
