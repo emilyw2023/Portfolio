@@ -74,5 +74,6 @@ font-style: normal;
   object-fit: cover;
   border-radius: 8px;
 }
+img:hover{color: grey;}
 
 </style>
