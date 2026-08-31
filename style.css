@@ -46,17 +46,9 @@ font-weight: 500;
 font-style: normal;
 }
 
-.image-grid { 
-  justify-content: space-between;
-  display: flex;
-  flex-wrap: wrap;\
-  border: 1px;
-}
-.img{
-  padding: 1rem;
-}
 
-/* .image-grid { 
+
+.image-grid { 
   display: grid;
   grid-template-columns: ;template-columns:(2,1fr);
   grid-template-rows: 2,1fr;
@@ -71,7 +63,7 @@ font-style: normal;
   object-fit: cover;
   border-radius: 8px;
   aspect-ratio: 1/1;
-} */
+}
 
 .navigation {
   display:flex;
