@@ -44,15 +44,13 @@ font-style: normal;
 
 .image-grid { 
   display: grid;
-  grid-template-columns: repeat (2,1fr);
-  gap: 16px;
-  max-width:600px;
-  margin: 0 auto;
+  grid-template-columns:1fr,1fr;
+  gap: 20px;
+
 }
 .image-grid img {
   width: 100%;
-  hight: 250px;
-  aspect-ratio: 1/1;
+  height: 300px;
   object-fit: cover;
   border-radius: 8px;
 }
