@@ -74,10 +74,11 @@ font-style: normal;
   object-fit: cover;
   border-radius: 8px;
 }
-img:hover{color: grey;}
+img:hover {color: grey;}
+
 .project1{
-  width: 50%;
-  height: 50$;
+  width:100%;
+  height: auto;
   justify-content: center;
 }
 </style>
