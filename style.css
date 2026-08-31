@@ -1,5 +1,16 @@
 <style>
+/* :root { 
+  --font-size-h1: clamp(1rem,5rem + 1.5vw, 10rem)
+} */
+ /* h1{
+  font-size: var(--font-size-h1);
+ } */
+  /* h2{
+    font-size: var(--font-size-h1);
+  } */
 
+
+  
  body {
   margin: 0;
   padding: 0;
