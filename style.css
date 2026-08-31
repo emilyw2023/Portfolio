@@ -18,10 +18,16 @@
 font-family: "sister-frisky", sans-serif;
 font-weight: 500;
 font-style: normal;
-
 /* display: flex;
   justify-content: center; /* Pushes items to left, center, and right */
   /* align-items: center; padding: 15px 250px; */ */
+}
+
+.Portfolio {
+  color:#c86868;  font-size: 150px; 
+font-family: "sister-frisky", sans-serif;
+font-weight: 500;
+font-style: normal
 }
 
 p {color:#c86868; font-size: 10px;
