@@ -66,5 +66,12 @@ font-style: normal;
   color: peru;
   
 }
+.project1{
+  width: 100%;
+  hight: 250px;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 8px;
+}
 
 </style>
