@@ -75,5 +75,8 @@ font-style: normal;
   border-radius: 8px;
 }
 img:hover{color: grey;}
-
+.project1{
+  width: 100vw;
+  height: 100vh;
+}
 </style>
