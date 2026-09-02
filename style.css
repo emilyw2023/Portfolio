@@ -124,16 +124,20 @@ a:hover{color: grey;}
 div {
   display: flex;
 }
-.project3{ display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+.project3 {
+  display: flex;
+  flex-wrap: wrap;       /* Allows images to drop to the next row */
   gap: 15px;
   max-width: 800px;
   margin: 0 auto;
 }
-.project3 img{width: 100%;
+
+.project3 img {
+  /* calc(50% - 7.5px) ensures 2 items per row, subtracting half the gap */
+  width: calc(50% - 7.5px); 
   aspect-ratio: 1 / 1;
   object-fit: cover;
-  border-radius: 8px;}
+  border-radius: 8px;
+}
 
 </style>
