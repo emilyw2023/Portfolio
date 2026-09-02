@@ -124,13 +124,16 @@ a:hover{color: grey;}
 div {
   display: flex;
 }
-.project3{ 
-  display: grid;
+.project3{ display: grid;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
   gap: 15px;
   max-width: 800px;
   margin: 0 auto;
 }
+.project3 img{width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 8px;}
 
 </style>
