@@ -9,13 +9,11 @@
  h2{
     font-size: var(--font-size-h1);
   } 
-
  html {
   font-size: clamp(1rem, 0.78rem + 1.5vw,2rem )
  }
 
-  body {
-    
+ body {
   /* margin: 0;
   padding: 0; */
   background-color: #fdeed4;
